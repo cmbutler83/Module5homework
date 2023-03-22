@@ -36,7 +36,7 @@ In this study, 249 mice who were identified with SCC tumors received treatment w
 * [Pymaceuticals Data Crystal Butler-Jupyter Notebook](https://github.com/cmbutler83/Module5homework/blob/main/Pymaceuticals/pymaceuticals_starter.ipynb)
 
 
-### Images of Database Tables Created
+### Images of Graphs Created
 * [Chart 1](https://github.com/cmbutler83/Module5homework/blob/main/Mouse%20Data%20Chart%201.png)
 * [Chart 2](https://github.com/cmbutler83/Module5homework/blob/main/Mouse%20Data%20Chart%202.png)
 * [Chart 3](https://github.com/cmbutler83/Module5homework/blob/main/Mouse%20Data%20Chart%203.png)
