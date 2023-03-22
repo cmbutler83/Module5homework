@@ -26,10 +26,10 @@ In this study, 249 mice who were identified with SCC tumors received treatment w
 
 
 ### Images of Database Tables Created
-* [Campaign Table](https://github.com/cmbutler83/Crowdfunding_ETL/blob/main/Resources/Campaign_table.png)
-* [Category Table](https://github.com/cmbutler83/Crowdfunding_ETL/blob/main/Resources/Category_table.png)
-* [Contacts Table](https://github.com/cmbutler83/Crowdfunding_ETL/blob/main/Resources/Contacts_table.png)
-* [Subcategory Table](https://github.com/cmbutler83/Crowdfunding_ETL/blob/main/Resources/Subcategory_table.png)
+* [Chart 1](https://github.com/cmbutler83/Module5homework/blob/main/Mouse%20Data%20Chart%201.png)
+* [Chart 2](https://github.com/cmbutler83/Module5homework/blob/main/Mouse%20Data%20Chart%202.png)
+* [Chart 3](https://github.com/cmbutler83/Module5homework/blob/main/Mouse%20Data%20Chart%203.png)
+* [Chart 4](https://github.com/cmbutler83/Module5homework/blob/main/Mouse%20Data%20Chart%204.png)
 
 ## Contributing Member
 
